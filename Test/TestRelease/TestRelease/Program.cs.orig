@@ -13,9 +13,12 @@ namespace TestRelease
             Console.WriteLine("This is great.");
             Console.WriteLine("This is great.");
             Console.WriteLine("This is great.");
+<<<<<<< HEAD
             Console.WriteLine("This is amazing.");
             Console.WriteLine("This is amazing.");
             Console.WriteLine("This is amazing.");
+=======
+>>>>>>> develop
         }
     }
 }
