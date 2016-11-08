@@ -12,6 +12,7 @@ namespace TestRelease
         {
             Console.WriteLine("This is great.");
             Console.WriteLine("This is great.");
+            Console.WriteLine("This is great cherry pick.");
             Console.WriteLine("This is great.");
         }
     }
