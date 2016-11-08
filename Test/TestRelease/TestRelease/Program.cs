@@ -13,9 +13,9 @@ namespace TestRelease
             Console.WriteLine("This is greatHotfix.");
             Console.WriteLine("This is greatHotfix.");
             Console.WriteLine("This is greatHotfix.");
-            Console.WriteLine("This is amazing1.");
-            Console.WriteLine("This is amazing2.");
-            Console.WriteLine("This is amazing3.");
+            Console.WriteLine("This is amazing.");
+            Console.WriteLine("This is amazing.");
+            Console.WriteLine("This is amazing.");
         }
     }
 }
