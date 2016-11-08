@@ -10,9 +10,9 @@ namespace TestRelease
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is greatHotfix.");
-            Console.WriteLine("This is greatHotfix.");
-            Console.WriteLine("This is greatHotfix.");
+            Console.WriteLine("This is greatHotfix1.");
+            Console.WriteLine("This is greatHotfix2.");
+            Console.WriteLine("This is greatHotfix3.");
         }
     }
 }
